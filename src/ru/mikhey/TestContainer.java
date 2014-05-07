@@ -1,15 +1,10 @@
-package ru;
+package ru.mikhey;
 
-import com.vaadin.annotations.Theme;
 import com.vaadin.data.Container;
 import com.vaadin.data.Item;
-import com.vaadin.data.util.IndexedContainer;
 import com.vaadin.server.VaadinRequest;
-import com.vaadin.shared.ui.label.ContentMode;
 import com.vaadin.ui.*;
-import ru.mikhey.Singleton;
 
-import java.util.Objects;
 import java.util.concurrent.TimeUnit;
 
 /**

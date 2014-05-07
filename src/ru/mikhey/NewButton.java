@@ -1,4 +1,4 @@
-package ru;
+package ru.mikhey;
 
 import com.vaadin.ui.Button;
 
